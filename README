@@ -5,3 +5,8 @@ entropy code is also included in the na/ directory. This code was downloaded
 from https://sites.google.com/site/pablompiaggi/scripts/pair-entropy-cv.
 To work with the LOAD command, all these code files had to beconcatenated into
 a single file and its includes modified.
+
+These input files support the following article:
+Free energy barriers from biased molecular dynamics simulations.
+K. M. Bal, S. Fukuhara, Y. Shibuta, E. C. Neyts, J. Chem. Phys. 153, 114118 (2020).
+https://doi.org/10.1063/5.0020240
